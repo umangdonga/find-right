@@ -1,0 +1,6 @@
+{
+  "name": "FindRight - Transparent Freelancer Marketplace",
+  "description": "Real designers. Real work. Real portfolios. Transparent freelance find and hire platform with escrow protection, AI disclosures, starter credits, video calls, and mid-project exit guarantees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
